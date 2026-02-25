@@ -77,7 +77,7 @@ npm run dev
 ```
 
 ## 📧 Contact
-Email: [infiniper@gmail.com](infiniper@gmail.com)
+Email: [neerkumar450@gmail.com](neerkumar450@gmail.com)
 
 <div align="center">
 <p>Built with ❤️</p>
